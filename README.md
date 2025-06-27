@@ -35,17 +35,14 @@ GitHub Actions • APIs públicas • Arquitecturas modulares • Microfrontends
 
 ## 📂 Proyectos destacados 
 
-- 🔐 **[Dashboard Modular con Micro-Frontends](https://github.com/tuusuario/dashboard-mf)**  
+- 🔐 **[Dashboard Modular con Micro-Frontends](https://github.com//ang-len-26/dashboard-mf)**  
   Arquitectura escalable con autenticación centralizada y microfrontends independientes.
 
-- 💸 **[Simulador de Finanzas Personales](https://github.com/tuusuario/simulador-finanzas)**  
+- 💸 **[Simulador de Finanzas Personales](https://github.com/ang-len-26/finance-simulator)**  
   Herramienta educativa para gestionar ingresos, egresos y visualizar estadísticas financieras con una estructura lista para escalar.
 
-- 🌍 **[go-open-data-api](https://github.com/tuusuario/go-open-data-api)**  
+- 🌍 **[go-open-data-api](https://github.com/tuusuario/ang-len-26/Go-Open-Data)**  
   API informativa basada en datos abiertos de países y ciudades del mundo. Porque la información quiere ser libre.
-
-- ✍️ **[AI Markdown Blog Assistant](https://github.com/tuusuario/ai-markdown-blog)**  
-  Editor tipo Notion con asistencia de IA y soporte Markdown para escribir, organizar y pensar mejor.
 
 ---
 
@@ -61,9 +58,9 @@ GitHub Actions • APIs públicas • Arquitecturas modulares • Microfrontends
 
 ## 🌍 Cómo contactarme
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- ✉️ [tucorreo@example.com](mailto:tucorreo@example.com)
-- 🌐 [tuportafolio.dev](https://tuportafolio.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/angel-rene-lengua-espinoza-9a40a5199/)
+- ✉️ [renelengua26@gmail.com](mailto:renelengua26@gmail.com)
+- 🌐 [Mi Portafolio](https://portafolio-beta-lime-37.vercel.app)
 
 ---
 
