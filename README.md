@@ -41,12 +41,12 @@ GitHub Actions • APIs públicas • Arquitecturas modulares • Microfrontends
 
 - 💸 **[Simulador de Finanzas Personales](https://github.com/ang-len-26/finance-simulator)**  
   Herramienta educativa para gestionar ingresos, egresos y visualizar estadísticas financieras con una estructura lista para escalar.
-  🔗 [Ver backend en Render](https://finance-backend-9v2i.onrender.com)  
+  🔗 [Ver backend en Render](https://finance-backend-9v2i.onrender.com)
   🌐 [Ver frontend en Vercel](finance-frontend-pink.vercel.app)
 
 - 🌍 **[go-open-data-api](https://github.com/tuusuario/ang-len-26/Go-Open-Data)**  
   API informativa basada en datos abiertos de países y ciudades del mundo. Porque la información quiere ser libre.
-  🔗 [Ver backend en Render](https://go-open-data.onrender.com)  
+  🔗 [Ver backend en Render](https://go-open-data.onrender.com)
   🌐 [Ver frontend en Vercel](https://go-open-data.vercel.app)
 
 ---
